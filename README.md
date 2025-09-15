@@ -1,16 +1,16 @@
-<!-- بنر خوشامدگویی متحرک -->
-<h1 align="center">👋 سلام! من Daniel Ebrahimi (idaniali)</h1>
+<!-- 👋 Welcome Banner -->
+<h1 align="center">سلام! 👋 من Daniel Ebrahimi (idaniali)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cybersecurity+Engineer+🔒;DevOps+&+Cloud+☁️;Automation+&+Security+Tools+🛠️" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cybersecurity+Engineer+🔒;DevOps+%26+Cloud+☁️;Automation+%26+CI/CD+🚀;Open+Source+Contributor+💡" />
 </p>
 
 ---
 
 ## 🧑‍💻 درباره من
-
-- مهندس امنیت سایبری با تمرکز بر DevOps و زیرساخت‌های مقیاس‌پذیر.  
-- عاشق اتوماسیون، امنیت شبکه، کانتینریزه کردن سرویس‌ها و بهینه‌سازی عملیات‌ها هستم.  
-- همیشه دنبال یادگیری تکنولوژی‌های جدید.  
+- متخصص **امنیت سایبری** و علاقه‌مند به **DevOps** و **Cloud**.  
+- تجربه کار با زیرساخت‌های ابری، اتوماسیون، و ابزارهای مانیتورینگ.  
+- عاشق بهبود فرآیندها، CI/CD و توسعه امن.  
+- همیشه دنبال یادگیری و مشارکت در پروژه‌های متن‌باز.  
 
 ---
 
@@ -44,19 +44,20 @@
 
 ## 📂 پروژه‌ها و فعالیت‌ها
 
-- تعداد مخازن (Repositories): **۲۰** :contentReference[oaicite:0]{index=0}  
-- ستاره‌ها (Stars): **۸۳** :contentReference[oaicite:1]{index=1}  
-- فالورها: **۶۳** :contentReference[oaicite:2]{index=2}  
-- موضوعات اصلی: *AI* · *DevOps* · *Security* · *Software Development* :contentReference[oaicite:3]{index=3}  
+- 📦 تعداد مخازن (Repositories): **20**  
+- ⭐ ستاره‌ها (Stars): **83**  
+- 👥 فالورها (Followers): **63**  
+- 🔑 موضوعات اصلی: *AI* · *DevOps* · *Security* · *Software Development*  
 
 ---
 
 ## 🌐 ارتباط با من
 
-- 💼 LinkedIn: [daniel-ebrahimi](https://www.linkedin.com/in/daniel-ebrahimi) :contentReference[oaicite:4]{index=4}  
-- 🐦 تلگرام: [idanieli](https://t.me/idanieli) :contentReference[oaicite:5]{index=5}  
-- 📸 اینستاگرام: [_idanieli_](https://www.instagram.com/_idanieli_) :contentReference[oaicite:6]{index=6}  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-ebrahimi)  
+- 📸 [Instagram](https://www.instagram.com/_idanieli_)  
+- 🐦 [Telegram](https://t.me/idanieli)  
+- 🐙 [GitHub](https://github.com/idaniali)  
 
 ---
 
-⭐ اگر پروژه‌هام برات مفید بودن، خیلی خوشحال می‌شم یه **Star** بدی!
+⭐ اگر پروژه‌هام برات جالب بودن، خیلی خوشحال می‌شم یه **Star** بزنی!
