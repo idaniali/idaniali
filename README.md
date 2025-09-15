@@ -1,7 +1,7 @@
 <!-- 👋 Welcome Banner -->
 <h1 align="center">سلام! 👋 من Daniel Ebrahimi (idaniali)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cybersecurity+Engineer+🔒;DevOps+%26+Cloud+☁️;Automation+%26+CI/CD+🚀;Open+Source+Contributor+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+%26+Cloud+☁️;Automation+%26+CI/CD+🚀;Open+Source+Contributor+💡" />
 </p>
 
 ---
